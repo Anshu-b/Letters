@@ -9,7 +9,7 @@ csv_file = 'judges.csv'
 template_file = 'template.docx'
 
 # Output directory for generated letters
-output_dir = 'generated letters'
+output_dir = 'letters'
 
 # Check if template exists
 if not os.path.exists(template_file):
@@ -23,6 +23,7 @@ from docx.shared import Pt
 
 # Read the CSV
 with open(csv_file, 'r') as f:
+    f.readline()  # Skip the first line
     reader = csv.DictReader(f)
     for row in reader:
         name = row['Name'].strip()

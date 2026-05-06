@@ -1,117 +1,63 @@
-Track,Name,First Name,Email,Checked-In
-Data Analytics,Chandrakanth ,,Puligundla,FALSE
-Artifical Intelligence & Machine Learning,Manoj Krishna Mohan,Chandrakanth,mnjkshrm@gmail.com,TRUE
-Artifical Intelligence & Machine Learning,Chelsea Fernandes,Manoj,chelseafernandes0803@gmail.com,TRUE
-Cloud Development,Fenil Shah,,fenilshsh03@ymail.com,FALSE
-Cloud Development,Shreyas Yembarwar,,yembarwar.shreya@gmail.com,FALSE
-Entrepreneurship & Product,Mira Shah,Shreyas,smira2910@gmail.com,TRUE
-Data Analytics,Tanay Tandon,,tanay.tandon@gmail.com,FALSE
-Artifical Intelligence & Machine Learning,Arunsankar Muralitharan,Tanay,Arunsankar.ssn@gmail.com,TRUE
-Entrepreneurship & Product,Swapnika Potturi,Arunsankar,swapnikapotturi@yahoo.com,TRUE
-Artifical Intelligence & Machine Learning,Krish Golcha,,kgolcha2@illinois.edu,FALSE
-Artifical Intelligence & Machine Learning,Raghav Gupta,,gupta.raghav2012@gmail.com,FALSE
-Artifical Intelligence & Machine Learning,Allan Sun,Raghav,s8sun@ucsd.edu,TRUE
-Artifical Intelligence & Machine Learning,Aman Bakshi,,?,FALSE
-Artifical Intelligence & Machine Learning,Asif Mansoor Amanullah,Aman,asifmansoor.a@gmail.com,TRUE
-Hardware & IoT,Sridhar Pavithrapu,Asif,sridhar.pavithrapu@gmail.com,TRUE
-UI/UX & Web Development,Gayathri Parthasarathy Nallore,Sridhar,gayathri.parthasarathyn@gmail.com,TRUE
-Artifical Intelligence & Machine Learning,Lalitendra Tomar,Gayathri,lalitendra.tomar@gmail.com,TRUE
-UI/UX & Web Development,Rajarajan Dhandapani,Lalitendra,d.rajarajan@gmail.com,TRUE
-Hardware & IoT,Jaspreet Singh Riar,Rajarajan,riarjaspreet77@gmail.com,TRUE
-Data Analytics,Sathish Srinivasan,Jaspreet,sathishs1988@gmail.com,TRUE
-Entrepreneurship & Product,Ashish Selvaraj,Sathish,ashish@appsidekit.com,TRUE
-Entrepreneurship & Product,Ethan Pronev,Ashish,ethan@appsidekit.com,TRUE
-Entrepreneurship & Product,Andrii Ryzhokhin,Ethan,andrew@ardas-it.com,TRUE
-Hardware & IoT,Garvit Vyas,Andrii,gv2361@columbia.edu,TRUE
-Entrepreneurship & Product,Pravardh Mishra,Garvit,pravardh@atlasmotionsystems.com,TRUE
-Entrepreneurship & Product,Harsh Bhatt,,harsh.bhatt@me.com,FALSE
-Cloud Development,Prerna Bellara,,prerna.bell@gmail.com,FALSE
-UI/UX & Web Development,Stella Li,Prerna,stellalx99@gmail.com,TRUE
-UI/UX & Web Development,Andra Thomas,Stella,andrajthomas04@gmail.com,TRUE
-Hardware & IoT,Daniel Carlier,Andra,daniel@casco.com,TRUE
-Entrepreneurship & Product,Yash Singhal,,yashsinghal0316@gmail.com,FALSE
-Artifical Intelligence & Machine Learning,Priyanka Kukreja,Yash,priyankakukreja267@gmail.com,TRUE
-Artifical Intelligence & Machine Learning,Shreyas Jagadeep Shete,Priyanka,shreyasshete@ieee.org,TRUE
-Entrepreneurship & Product,Naitik Mehta,Shreyas,naitikmmehta@gmail.com,TRUE
-DataBricks Challenge,Manu Mehra,,manu.gemini99@gmail.com,FALSE
-DataBricks Challenge,Ben Novak,,ben.novak@databricks.com,FALSE
-Artifical Intelligence & Machine Learning,Gediminas Pazera,,gediminaspazera@gmail.com,FALSE
-UI/UX & Web Development,Anumita Sinha,Gediminas,anumita1111@gmail.com,TRUE
-Cloud Development,Ngoc Doan,,ngoc.doan2@doordash.com,FALSE
-Data Analytics,Sai Sudhir Vinjamuri,,saisudhir19@gmail.com,FALSE
-Cloud Development,Anuj,,,FALSE
-Artifical Intelligence & Machine Learning,Angela Hsiao,Anuj,aphsiao@gmail.com,TRUE
-Data Analytics,Ayushi Agarwal,,ayagarwal15@gmail.com,FALSE
-Artifical Intelligence & Machine Learning,Philip Chen,Ayushi,phc006@ucsd.edu,TRUE
-Artifical Intelligence & Machine Learning,Diya Mohan,Philip,diya.mohan@helixabio.com,TRUE
-Cloud Development,Bhargav Reddy Piduru,,bhargavreddy.p@gmail.com,FALSE
-Artifical Intelligence & Machine Learning,Nitika Bhatia,,nitikabhatia56@gmail.com,FALSE
-Artifical Intelligence & Machine Learning,Pallav Anand,Nitika,04pallav@gmail.com,TRUE
-Artifical Intelligence & Machine Learning,Ishita Mangla,,ishi.mangla@gmail.com,FALSE
-Data Analytics,Maitreyi Chatterjee,Ishita,maitreyi2906@gmail.com,TRUE
-Entrepreneurship & Product,Arnav Jha,,arnav@loandock.com,FALSE
-Mechanical Design & Biotechnology,Bhargav Sriram,,bhargavsriram57@gmail.com,FALSE
-Artifical Intelligence & Machine Learning,Sheela Yadawad,,sheela.yadawad@gmail.com,FALSE
-Data Analytics,Vignesh Balaji,,bvignesh1394@gmail.com,FALSE
-Artifical Intelligence & Machine Learning,Anishek Kamal,Vignesh,anishekkamal@gmail.com,TRUE
-Artifical Intelligence & Machine Learning,Chandra inguva,,Csinguva@berkeley.edu,FALSE
-Cloud Development,Sunil Kumar Vadlamani,Chandra,sunilteja93@gmail.com,TRUE
-Cloud Development,Mitchelle Ashley Creado,Sunil,creadomitchelle15@gmail.com,TRUE
-Economics,Anuj Jain,Mitchelle,aj279@berkeley.edu,TRUE
-Artifical Intelligence & Machine Learning,Ishita Verma,Anuj,iverma@netflix.com,TRUE
-UI/UX & Web Development,Daniel Weissberg,Ishita,weissbergux@gmail.com,TRUE
-Cloud Development,Brajesh Kumar Shrivastava,Daniel,brajesh.shri@gmail.com,TRUE
-Artifical Intelligence & Machine Learning,Neha Mittal,,n3mittal@ucsd.edu,FALSE
-Artifical Intelligence & Machine Learning,Juhi Mittal,,juhim@nvidia.com,FALSE
-Artifical Intelligence & Machine Learning,Bikash Pokharel,Juhi,pokharelbikash981@gmail.com,TRUE
-Artifical Intelligence & Machine Learning,Dikshit Khandelwal,,dikshitkhandelwal1@gmail.com,FALSE
-Artifical Intelligence & Machine Learning,Aditya Kartikeya Mallajosyula,,kartwik@gmail.com,FALSE
-Artifical Intelligence & Machine Learning,Joyal Shah,,shahjoyal4@gmail.com,FALSE
-Cloud Development,Sohil Vinod Shah,,SHAH.SOHIL123@GMAIL.COM,FALSE
-Entrepreneurship & Product,Abhishek Chandrakant Jadhav,,abhishekjadhavdata@gmail.com,FALSE
-Artifical Intelligence & Machine Learning,Talha Gorsi,,Talhasg@gmail.com,FALSE
-Entrepreneurship & Product,Yoona Kim,Talha,yoonak33@gmail.com,TRUE
-UI/UX & Web Development,Karan Mendiratta,,karanmendiratta@gmail.com,FALSE
-UI/UX & Web Development,Aarushi Bajaj,Karan,aarushibajaj6@gmail.com,TRUE
-Artifical Intelligence & Machine Learning,Swathi Subramanian,Aarushi,swathi@sierra.ai,TRUE
-Entrepreneurship & Product,Viacheslav Vaniukov,Swathi,slava.vaniukov@gmail.com,TRUE
-Cloud Development,Manushi Manish Sheth,,manushisheth19@gmail.com,FALSE
-Cloud Development,Artem Chigrinets,,a.chigrinets@gmail.com,FALSE
-Entrepreneurship & Product,Mazen Labban,,mazenl94@gmail.com,FALSE
-Data Analytics,Ashwathama Rajendran,Mazen,rashwathama@gmail.com,TRUE
-Economics,Austin Tse,,Ayce24@gmail.com,FALSE
-Hardware & IoT,Devansh Agarwal,,thedevanshagarwal@gmail.com,FALSE
-Best Use of Scripps Data,Duncan Watson-Parris,,dwatsonparris@ucsd.edu,FALSE
-UI/UX & Web Development,Prashant Arya,,prashant4arya@gmail.com,FALSE
-Data Analytics,Pranjali Yadav,,pranjal.10698@gmail.com,FALSE
-Artifical Intelligence & Machine Learning,Vijayesh Mukundan,Pranjali,vijayesh18@gmail.com,TRUE
-UI/UX & Web Development,Scarlett Zhang,Vijayesh,tianyuzscar@gmail.com,TRUE
-Data Analytics,Jubin Soni,Scarlett,jubin.soni@ieee.org,TRUE
-Economics,Mason Wilkins,,,FALSE
-ZenPower Challenge,Jake Zalesny,,,FALSE
-ZenPower Challenge,Matt Young,,,FALSE
-Mechanical Design & Biotechnology,Gregory Peters,Matt,gpeters1@gmail.com,TRUE
-Mechanical Design & Biotechnology,Jesus Gabriel Cruz-Garza,Gregory,jgcruzgarza@gmail.com,TRUE
-Mechanical Design & Biotechnology,Wilbur Braulio,,wbur.braulio@gmail.com,FALSE
-Mechanical Design & Biotechnology,Chochanon Moonla,Wilbur,cmoonla@ucsd.edu,TRUE
-Mechanical Design & Biotechnology,Víctor de la Asunción Nadal,Chochanon,vdelaasuncionnadal@ucsd.edu,TRUE
-Mechanical Design & Biotechnology,Tina Tse Nga Ng,Víctor,tnn046@ucsd.edu,TRUE
-Data Analytics,Alex Cloninger,Tina,acloninger@ucsd.edu,TRUE
-Data Analytics,Alexander Sky Merose,Alex,al@merose.com,TRUE
-AWS Challenge,Nikhil Kharwandikar,,,FALSE
-Entrepreneurship & Product,Neel Majmudar,Nikhil,neel@imagineai.me,TRUE
-Entrepreneurship & Product,Rachel Costello,Neel,rcostello@ucsd.edu,TRUE
-Mechanical Design & Biotechnology,Abishek Lele,Rachel,alele@ucsd.edu,TRUE
-Artifical Intelligence & Machine Learning,Philip Brito,Abishek,britophilip@iCloud Development.com,TRUE
-Artifical Intelligence & Machine Learning,Brenda Figueroa,Philip,brendaangelicafigueroa@gmail.com,TRUE
-ML/AI,Scott Seelman,Brenda,scott.seelman@epiqtech.com,TRUE
-Artifical Intelligence & Machine Learning,Yunfei Luo,,,FALSE
-Data Analytics,Michael Campbell,Yunfei,campbell@workreadypartners.com,TRUE
-Artifical Intelligence & Machine Learning,Raj Krishnan,Michael,rkrishnan@sigil.bio.com,TRUE
-,,,,FALSE
-,,,,FALSE
-,,,,FALSE
-,,,,FALSE
-,,,,FALSE
-,,,,FALSE
-,,,,FALSE
+,,,
+Track,Name,First Name,Email
+Artificial Intelligence & Machine Learning,Manoj Krishna Mohan,Chandrakanth,mnjkshrm@gmail.com
+Artificial Intelligence & Machine Learning,Chelsea Fernandes,Manoj,chelseafernandes0803@gmail.com
+Entrepreneurship & Product,Mira Shah,Shreyas,smira2910@gmail.com
+Artificial Intelligence & Machine Learning,Arunsankar Muralitharan,Tanay,Arunsankar.ssn@gmail.com
+Entrepreneurship & Product,Swapnika Potturi,Arunsankar,swapnikapotturi@yahoo.com
+Artificial Intelligence & Machine Learning,Allan Sun,Raghav,s8sun@ucsd.edu
+Artificial Intelligence & Machine Learning,Asif Mansoor Amanullah,Aman,asifmansoor.a@gmail.com
+Hardware & IoT,Sridhar Pavithrapu,Asif,sridhar.pavithrapu@gmail.com
+UI/UX & Web Development,Gayathri Parthasarathy Nallore,Sridhar,gayathri.parthasarathyn@gmail.com
+Artificial Intelligence & Machine Learning,Lalitendra Tomar,Gayathri,lalitendra.tomar@gmail.com
+UI/UX & Web Development,Rajarajan Dhandapani,Lalitendra,d.rajarajan@gmail.com
+Hardware & IoT,Jaspreet Singh Riar,Rajarajan,riarjaspreet77@gmail.com
+Data Analytics,Sathish Srinivasan,Jaspreet,sathishs1988@gmail.com
+Entrepreneurship & Product,Ashish Selvaraj,Sathish,ashish@appsidekit.com
+Entrepreneurship & Product,Ethan Pronev,Ashish,ethan@appsidekit.com
+Entrepreneurship & Product,Andrii Ryzhokhin,Ethan,andrew@ardas-it.com
+Hardware & IoT,Garvit Vyas,Andrii,gv2361@columbia.edu
+Entrepreneurship & Product,Pravardh Mishra,Garvit,pravardh@atlasmotionsystems.com
+UI/UX & Web Development,Stella Li,Prerna,stellalx99@gmail.com
+UI/UX & Web Development,Andra Thomas,Stella,andrajthomas04@gmail.com
+Hardware & IoT,Daniel Carlier,Andra,daniel@casco.com
+Artificial Intelligence & Machine Learning,Priyanka Kukreja,Yash,priyankakukreja267@gmail.com
+Artificial Intelligence & Machine Learning,Shreyas Jagadeep Shete,Priyanka,shreyasshete@ieee.org
+Entrepreneurship & Product,Naitik Mehta,Shreyas,naitikmmehta@gmail.com
+UI/UX & Web Development,Anumita Sinha,Gediminas,anumita1111@gmail.com
+Artificial Intelligence & Machine Learning,Angela Hsiao,Anuj,aphsiao@gmail.com
+Artificial Intelligence & Machine Learning,Philip Chen,Ayushi,phc006@ucsd.edu
+Artificial Intelligence & Machine Learning,Diya Mohan,Philip,diya.mohan@helixabio.com
+Artificial Intelligence & Machine Learning,Pallav Anand,Nitika,04pallav@gmail.com
+Data Analytics,Maitreyi Chatterjee,Ishita,maitreyi2906@gmail.com
+Artificial Intelligence & Machine Learning,Anishek Kamal,Vignesh,anishekkamal@gmail.com
+Cloud Development,Sunil Kumar Vadlamani,Chandra,sunilteja93@gmail.com
+Cloud Development,Mitchelle Ashley Creado,Sunil,creadomitchelle15@gmail.com
+Economics,Anuj Jain,Mitchelle,aj279@berkeley.edu
+Artificial Intelligence & Machine Learning,Ishita Verma,Anuj,iverma@netflix.com
+UI/UX & Web Development,Daniel Weissberg,Ishita,weissbergux@gmail.com
+Cloud Development,Brajesh Kumar Shrivastava,Daniel,brajesh.shri@gmail.com
+Artificial Intelligence & Machine Learning,Bikash Pokharel,Juhi,pokharelbikash981@gmail.com
+Entrepreneurship & Product,Yoona Kim,Talha,yoonak33@gmail.com
+UI/UX & Web Development,Aarushi Bajaj,Karan,aarushibajaj6@gmail.com
+Artificial Intelligence & Machine Learning,Swathi Subramanian,Aarushi,swathi@sierra.ai
+Entrepreneurship & Product,Viacheslav Vaniukov,Swathi,slava.vaniukov@gmail.com
+Data Analytics,Ashwathama Rajendran,Mazen,rashwathama@gmail.com
+Artificial Intelligence & Machine Learning,Vijayesh Mukundan,Pranjali,vijayesh18@gmail.com
+UI/UX & Web Development,Scarlett Zhang,Vijayesh,tianyuzscar@gmail.com
+Data Analytics,Jubin Soni,Scarlett,jubin.soni@ieee.org
+Mechanical Design & Biotechnology,Gregory Peters,Matt,gpeters1@gmail.com
+Mechanical Design & Biotechnology,Jesus Gabriel Cruz-Garza,Gregory,jgcruzgarza@gmail.com
+Mechanical Design & Biotechnology,Chochanon Moonla,Wilbur,cmoonla@ucsd.edu
+Mechanical Design & Biotechnology,Víctor de la Asunción Nadal,Chochanon,vdelaasuncionnadal@ucsd.edu
+Mechanical Design & Biotechnology,Tina Tse Nga Ng,Víctor,tnn046@ucsd.edu
+Data Analytics,Alex Cloninger,Tina,acloninger@ucsd.edu
+Data Analytics,Alexander Sky Merose,Alex,al@merose.com
+Entrepreneurship & Product,Neel Majmudar,Nikhil,neel@imagineai.me
+Entrepreneurship & Product,Rachel Costello,Neel,rcostello@ucsd.edu
+Mechanical Design & Biotechnology,Abishek Lele,Rachel,alele@ucsd.edu
+Artificial Intelligence & Machine Learning,Philip Brito,Abishek,britophilip@iCloud Development.com
+Artificial Intelligence & Machine Learning,Brenda Figueroa,Philip,brendaangelicafigueroa@gmail.com
+Artificial Intelligence & Machine Learning,Scott Seelman,Brenda,scott.seelman@epiqtech.com
+Data Analytics,Michael Campbell,Yunfei,campbell@workreadypartners.com
+Artificial Intelligence & Machine Learning,Raj Krishnan,Michael,rkrishnan@sigil.bio.com
