@@ -23,7 +23,6 @@ from docx.shared import Pt
 
 # Read the CSV
 with open(csv_file, 'r') as f:
-    f.readline()  # Skip the first line
     reader = csv.DictReader(f)
     for row in reader:
         name = row['Name'].strip()
