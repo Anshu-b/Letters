@@ -8,8 +8,6 @@ output_csv = 'judge_links.csv'
 
 # Read the input CSV and write to output CSV
 with open(input_csv, 'r') as infile:
-    # Skip the first line
-    infile.readline()
     reader = csv.DictReader(infile)
     
     with open(output_csv, 'w', newline='') as outfile:
